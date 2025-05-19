@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60411BA3-ADF8-4E9C-AD35-4A573E30539E}|..\\..\\..\\FunctionAppCLDVPOE\\FunctionAppCLDVPOE\\FunctionAppCLDVPOE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\functionappcldvpoe\\functionappcldvpoe\\tablefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\areas\\identity\\pages\\auth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\areas\\identity\\pages\\auth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\migrations\\20240921174818_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\migrations\\20240921174818_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\orders\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\orders\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\files\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\files\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|c:\\users\\dianca\\onedrive\\documents\\onedrive\\desktop\\visual studio\\st10261874_cldv6212_poe\\st10261874_cldv6212_poe\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73DB9173-4AB4-4639-ABBD-6759FF874392}|ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE.csproj|solutionrelative:st10261874_cldv6212_poe\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\FunctionAppCLDVPOE\\FunctionAppCLDVPOE\\TableFunction.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FunctionAppCLDVPOE\\FunctionAppCLDVPOE\\TableFunction.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\FunctionAppCLDVPOE\\FunctionAppCLDVPOE\\TableFunction.cs",
+              "RelativeToolTip": "..\\..\\..\\FunctionAppCLDVPOE\\FunctionAppCLDVPOE\\TableFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:23:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwB0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T15:59:41.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T07:53:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:59:55.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T15:59:56.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Models\\Product.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:09:45.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Products\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Products\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Products\\AddProduct.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Products\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:39:19.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Models\\FileModel.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Models\\FileModel.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Models\\FileModel.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Models\\FileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:52:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Program.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Program.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Program.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:36:02.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Services\\TableStorageService.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAADwv5wAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:55:08.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Services\\OrderService.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:26:31.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AzureFileShareService.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Services\\AzureFileShareService.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Services\\AzureFileShareService.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Services\\AzureFileShareService.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Services\\AzureFileShareService.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwF0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:57:32.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:22:05.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:36:41.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Auth.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Auth.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Auth.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Auth.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Auth.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T17:39:08.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T17:39:39.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T17:39:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240921174818_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Migrations\\20240921174818_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Migrations\\20240921174818_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Migrations\\20240921174818_InitialCreate.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Migrations\\20240921174818_InitialCreate.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAQwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:48:19.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-21T17:24:38.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwD8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:21:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Models\\Order.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:34:20.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Orders\\Register.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Orders\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Orders\\Register.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Orders\\Register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:31:15.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:26:53.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T17:23:05.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Models\\Customer.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Models\\Customer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:28:30.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Controllers\\FilesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:53:58.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:15:21.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Files\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Files\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Files\\Index.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Files\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:12:11.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T10:12:34.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:49:08.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "ST10261874_CLDV6212_POE\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Dianca\\OneDrive\\Documents\\OneDrive\\Desktop\\Visual Studio\\ST10261874_CLDV6212_POE\\ST10261874_CLDV6212_POE\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "ST10261874_CLDV6212_POE\\wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T10:12:38.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

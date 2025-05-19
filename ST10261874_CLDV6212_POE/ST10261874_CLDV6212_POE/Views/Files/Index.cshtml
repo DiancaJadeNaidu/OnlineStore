@@ -1,0 +1,49 @@
+﻿@model List<ST10261874_CLDV6212_POE.Models.FileModel>
+
+<h1>Files</h1>
+
+<!-- Display any messages-->
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["Message"]
+    </div>
+}
+<!-- Instructions -->
+<div class="alert alert-info">
+    <h4>File Upload Instructions</h4>
+    <p>To keep your application running smoothly, please follow these guidelines for uploading files:</p>
+    <ul>
+        <li><strong>File Types:</strong> Ensure that you are uploading images, videos, or documents. Supported formats include JPG, PNG, MP4, PDF, and DOCX.</li>
+        <li><strong>File Size:</strong> Files should not exceed 100 MB. If you encounter issues with large files, consider compressing them before uploading.</li>
+        <li><strong>File Names:</strong> Use descriptive file names to help identify the content of the file easily. Avoid using special characters in file names.</li>
+    </ul>
+</div>
+<!--upload form-->
+<form asp-action="Upload" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="file">Choose a file to upload: </label>
+        <input type="file" name="file" class="form-control" />
+        <button type="submit" class="btn btn-primary mt-2">Upload</button>
+    </div>
+</form>
+
+<!--display uploaded file-->
+@if (Model != null && Model.Count > 0)
+{
+    <ul>
+        @foreach (var file in Model)
+        {
+            <li> 
+                @file.Name -
+                Size: @file.DisplaySize -
+                Last Modified: @file.LastModified?.ToString("g")
+                - <a asp-action="DownloadFile" asp-route-fileName="@file.Name">Download</a>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No files found or model is null.</p>
+}

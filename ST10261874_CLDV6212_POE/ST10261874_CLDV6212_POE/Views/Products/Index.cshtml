@@ -1,0 +1,70 @@
+﻿@model IEnumerable<ST10261874_CLDV6212_POE.Models.Product>
+
+<h1 class="text-center">Our Magical Products</h1>
+
+<div class="text-center mt-4">
+    @if (User.IsInRole("Admin")) // Check if the user is an admin
+    {
+        <a href="@Url.Action("AddProduct", "Products")" class="btn btn-primary">Create New Product</a>
+    }
+</div>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var product in Model)
+    {
+        <div class="col">
+            <div class="card h-100">
+                @if (!string.IsNullOrEmpty(product.ImageUrl))
+                {
+                    <img src="@product.ImageUrl" class="card-img-top" alt="@product.Product_Name" />
+                }
+                <div class="card-body">
+                    <h5 class="card-title">@product.Product_Name</h5>
+                    <p class="card-text">@product.Description</p>
+                    <p class="card-text"><strong>@product.Price.ToString("C")</strong></p>
+
+                    <div>
+                        <label for="quantity-@product.Product_Id">Quantity:</label>
+                        <input type="number" id="quantity-@product.Product_Id" class="form-control" value="1" min="1" />
+                    </div>
+                </div>
+                <div class="card-footer text-center">
+                    <button class="btn btn-success add-to-cart" data-product-id="@product.Product_Id" data-product-name="@product.Product_Name">Add to Cart</button>
+
+                    @if (User.IsInRole("Admin")) // Check if the user is an admin
+                    {
+                        <a href="@Url.Action("Edit", "Product", new { id = product.Product_Id })" class="btn btn-warning">Edit</a>
+                        <form action="@Url.Action("Delete", "Product", new { id = product.Product_Id })" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this product?');">Delete</button>
+                        </form>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".add-to-cart").click(function () {
+                var productId = $(this).data("product-id");
+                var productName = $(this).data("product-name");
+                var quantity = $("#quantity-" + productId).val();
+
+                toastr.success(productName + " (x" + quantity + ") added to cart!");
+
+                // Reset the quantity input after adding to cart
+                $("#quantity-" + productId).val(1);
+            });
+        });
+    </script>
+}
+
+<style>
+    .card-img-top {
+        height: 200px;
+        object-fit: contain;
+        background-color: #f8f9fa;
+    }
+</style>

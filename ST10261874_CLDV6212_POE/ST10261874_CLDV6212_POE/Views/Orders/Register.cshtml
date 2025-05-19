@@ -1,0 +1,40 @@
+﻿@model ST10261874_CLDV6212_POE.Models.Order
+
+@{
+    var customers = ViewData["Customers"] as List<ST10261874_CLDV6212_POE.Models.Customer>;
+    var products = ViewData["Products"] as List<ST10261874_CLDV6212_POE.Models.Product>;
+}
+
+<h1>Register an Order</h1>
+
+@if (customers == null || !customers.Any() || products == null || !products.Any())
+{
+    <div class="alert alert-warning">
+        No customers or products available. Please ensure they are added first.
+    </div>
+}
+else
+{
+    <form asp-action="Register" method="post">
+        <div class="form-group">
+            <label asp-for="Customer_ID">Select Customer</label>
+            <select asp-for="Customer_ID" class="form-control" asp-items="@(new SelectList(customers, "RowKey", "Customer_Name"))">
+                <option value="">-- Select Customer --</option>
+            </select>
+            <span asp-validation-for="Customer_ID" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Product_ID">Select Product</label>
+            <select asp-for="Product_ID" class="form-control" asp-items="@(new SelectList(products, "RowKey", "Product_Name"))">
+                <option value="">-- Select Product --</option>
+            </select>
+            <span asp-validation-for="Product_ID" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Ordering_Date">Order Date and Time</label>
+            <input asp-for="Ordering_Date" type="datetime-local" class="form-control" />
+            <span asp-validation-for="Ordering_Date" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit Order</button>
+    </form>
+}

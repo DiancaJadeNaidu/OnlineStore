@@ -1,0 +1,17 @@
+﻿@model ST10261874_CLDV6212_POE.Models.Product
+
+<h2 class="mb-4">Delete Product</h2>
+
+<p>Are you sure you want to delete the product <strong>@Model.Product_Name</strong>?</p>
+<img src="@Model.ImageUrl" alt="@Model.Product_Name" style="height: 150px;" class="mb-3" />
+
+<form asp-action="DeleteProduct" method="post">
+    <input type="hidden" name="PartitionKey" value="@Model.PartitionKey" />
+    <input type="hidden" name="RowKey" value="@Model.RowKey" />
+    <div class="form-group">
+        <div class="col-sm-10 offset-sm-2">
+            <button type="submit" class="btn btn-danger">Delete Product</button>
+            <a href="@Url.Action("Index", "Products")" class="btn btn-secondary">Cancel</a>
+        </div>
+    </div>
+</form>
